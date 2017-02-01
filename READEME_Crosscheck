@@ -1,0 +1,7 @@
+This script is writen using python language.
+The version of python is 2.7.6.
+The function of the script is to reformat the TRF output file and remove the uncessary items; eliminate the redundant items(the repetitive ones); print the general in formation about the output file on the screen.
+Befor using it, open the script and change the InFileName to your own file name.
+There will be two output files.
+The file named TRFrefoematted.txt contained all the items from the TRF output file but reformatted.
+The file named TRFsimplified.txt contained non-redundant items.
